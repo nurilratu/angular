@@ -1,0 +1,48 @@
+{
+  "name": "onlineshop2",
+  "version": "0.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/core": "^5.0.0",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "cors-js": "^2.4.2",
+    "express": "^4.16.2",
+    "git": "^0.1.5",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "~0.13.0",
+    "@angular/cli": "~7.3.8",
+    "@angular/compiler-cli": "~7.2.0",
+    "@angular/language-service": "~7.2.0",
+    "@types/node": "~8.9.4",
+    "@types/jasmine": "~2.8.8",
+    "@types/jasminewd2": "~2.0.3",
+    "codelyzer": "~4.5.0",
+    "jasmine-core": "~2.99.1",
+    "jasmine-spec-reporter": "~4.2.1",
+    "karma": "~4.0.0",
+    "karma-chrome-launcher": "~2.2.0",
+    "karma-coverage-istanbul-reporter": "~2.0.1",
+    "karma-jasmine": "~1.1.2",
+    "karma-jasmine-html-reporter": "^0.2.2",
+    "protractor": "~5.4.0",
+    "ts-node": "~7.0.0",
+    "tslint": "~5.11.0",
+    "typescript": "~3.2.2",
+    "@angular-devkit/core": "7.3.8"
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.",
+  "main": "server/app.js",
+  "author": "",
+  "license": "ISC"
+}
